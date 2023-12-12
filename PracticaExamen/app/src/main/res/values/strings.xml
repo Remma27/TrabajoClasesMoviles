@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PracticaExamen</string>
+
+    <string name="tituloJugador">Datos del Jugador</string>
+    <string name="nombreJugador">Nombre del Jugador</string>
+    <string name="fechaNacimiento">Fecha de Nacimiento</string>
+    <string name="fondoApuestas">Fondo de Apuestas</string>
+    <string name="cantDados">Cantidad de Dados</string>
+    <string name="botonIngresar">Ingresar</string>
+    <string name="textoApuestas">Las apuestas electrónicas son riesgosas. Pueden causar adicción, pérdida de dinero, problemas de salud mental y financieros. La falta de regulación agrava estos peligros. Juega con responsabilidad y busca ayuda si es necesario. Tu bienestar está en juego.</string>
+
+
+
+
+</resources>
